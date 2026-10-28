@@ -41,9 +41,9 @@ elevate-labs-task-4-git/
 
 └── docs/
 
-&#x20;   ├── git-workflow.md
+         ├── git-workflow.md
 
-&#x20;   └── interview-questions.md
+         └── interview-questions.md
 
 ```
 
